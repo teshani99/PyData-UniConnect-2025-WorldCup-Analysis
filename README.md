@@ -1,6 +1,6 @@
 # ICC Men's Cricket World Cup Analysis - PyData Sri Lanka UniConnect 2025
 
-This repository contains the code and analysis for Case Study 02 of PyData Sri Lanka UniConnect 2025. The project analyzes ICC Men's Cricket World Cup matches from 1975 to 2023.
+This repository contains the code and analysis for Case Study of PyData Sri Lanka UniConnect 2025. The project analyzes ICC Men's Cricket World Cup matches from 1975 to 2023.
 
 
 ## Repository Structure
