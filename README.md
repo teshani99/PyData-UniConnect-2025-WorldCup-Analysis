@@ -14,9 +14,3 @@ This repository contains the code and analysis for Case Study of PyData Sri Lank
 1. Clone the repository: `git clone https://github.com/your-username/PyData-UniConnect-2025-WorldCup-Analysis.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run notebooks in `/notebooks` using Jupyter.
-
-## Tasks
-- Task 01: GitHub Repository Management
-- Task 02: Data Preparation
-- Task 03: HuggingFace Model for Sentiment Analysis
-- Task 04: Plotly Dash Dashboard
